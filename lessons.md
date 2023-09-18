@@ -8,7 +8,7 @@ Primeiros passos com a língua árabe
 ### Gramática:
 N/A
 
-### Vocublário
+### Vocabulário
 
 | Português        | Pronúncia | Árabe    |
 | ----             | ----      | ----     |
