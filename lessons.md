@@ -21,21 +21,15 @@ N/A
 | Senhor/peregrino | Hag       | ح ج      |
 
 ## Observações:
-- As letras estudadas nesta aula são:
-<br>
-أ Alef
-<br>
-ب Baa
-<br>
-ت Taa
-<br>
-ج Jim
-<br>
-ح Hah
-<br>
-م Mim
+* As letras estudadas nesta aula são:
+    * أ Alef
+    * ب Baa
+    * ت Taa
+    * ج Jim
+    * ح Hah
+    * م Mim
 
-- Para chamar uma mulher no egito, é preferível chamar ela com o nome do(a) filho/filha dela,
+* Para chamar uma mulher no egito, é preferível chamar ela com o nome do(a) filho/filha dela,
 principalmente em público.
 Em alguns casos se a mulher não pude ter filhos, ela será chamada com um nome que ela desejaria para o seu filho ou filha.
 Exemplo:
