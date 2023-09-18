@@ -22,12 +22,12 @@ N/A
 
 ## Observações:
 * As letras estudadas nesta aula são:
-    * أ Alef
-    * ب Baa
-    * ت Taa
-    * ج Jim
-    * ح Hah
-    * م Mim
+    * Alef أ
+    * Baa ب
+    * Taa ت
+    * Jim ج
+    * Hah ح
+    * Mim م
 
 * Para chamar uma mulher no egito, é preferível chamar ela com o nome do(a) filho/filha dela,
 principalmente em público.
